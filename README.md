@@ -58,3 +58,8 @@ Output
 
 
 
+
+
+
+
+![hotelpage- output](https://github.com/ra-ghava/Hotel-Booking-Page/assets/146189602/cc57f1ca-eb08-4f23-bc4b-9796cc1e3fb1)
