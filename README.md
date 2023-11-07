@@ -22,3 +22,5 @@ Design Template
 
 
 
+
+![hotel-Design Template](https://github.com/ra-ghava/Hotel-Booking-Page/assets/146189602/8ec75995-f4ea-48f5-81f4-61ce26791558)
